@@ -3,9 +3,11 @@
 myname="Arun"
 myclass="nd"
 date=$(date)
+time=$(time)
 net=$(ping -c 4 google.com)
 
 echo "Hey, my name is $myname."
+echo "In this time = $time | I am learing about bash  |"
 echo "If you wanna know about me ------ let's look at this post."
 
 echo "These days, I am learning about CyberSecurity | Pentesting | Ethical Hacking | Red Team | Blue Team."
