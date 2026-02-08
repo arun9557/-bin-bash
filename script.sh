@@ -13,7 +13,7 @@ echo "If you wanna know about me ------ let's look at this post."
 echo "These days, I am learning about CyberSecurity | Pentesting | Ethical Hacking | Red Team | Blue Team."
 echo "This post was created on $date."
 echo "My class is $myclass. I don’t want to join any formal class — I am learning on my own."
-echo "I am not passionate about chasing a degree or going to college like kids of STUK."
+echo "I am not passionate about chasing a degree or going to college ."
 
 echo ""
 
