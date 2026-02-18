@@ -1,4 +1,4 @@
-#!/bin/bash   .5
+#!/bin/bash   
 
 value=$(cat /proc/cpuinfo | grep "model name" | head -1 | awk -F: '{print $2}' | sed 's/^[ \t]*//;s/[ \t]*$//')
 echo "CPU Model: $value"
@@ -18,3 +18,4 @@ if [ -f ~/my_file.txt ]; then
 else
     echo "The file does not exist."
 fi
+
