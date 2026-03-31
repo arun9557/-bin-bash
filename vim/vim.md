@@ -6,3 +6,5 @@
 - 4. if u want to save press = :w
 - 5. if u want to go to normal mode press = Esc
 - 6. if u want to don't save = :!q
+
+#### Workign with vim 
